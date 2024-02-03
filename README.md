@@ -11,8 +11,8 @@
 <h2 align="center">🧰Стек🧰</h2>
 <p align="center">
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" rel="nofollow"><img align="center" src="https://github.com/sssinty/sssinty/blob/main/icon/javascript-color.svg" alt="javascript" height="40" width="40" style="max-width: 100%;"></a>
+<a href="https://www.typescriptlang.org/" rel="nofollow"><img align="center" src="https://github.com/sssinty/sssinty/blob/main/icon/typescript-color.svg" height="35" width="35" style="max-width: 100%;"></a>
 <a href="https://reactnative.dev/" rel="nofollow"><img align="center" src="https://github.com/sssinty/sssinty/blob/main/icon/react-color.svg" alt="react" height="35" width="35" style="max-width: 100%;"></a>
-<a href="https://www.typescriptlang.org/" rel="nofollow"><img align="center" src="https://github.com/sssinty/sssinty/blob/main/icon/typescript-color.svg" alt="typescript" height="35" width="35" style="max-width: 100%;"></a>
 <a href="https://redux.js.org/" rel="nofollow"><img align="center" src="https://github.com/sssinty/sssinty/blob/main/icon/redux-color.svg" alt="redux" height="35" width="35" style="max-width: 100%;"></a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"><img align="center" src="https://github.com/sssinty/sssinty/blob/main/icon/css3-color.svg" alt="css3" height="35" width="35" style="max-width: 100%;"></a>
 <a href="https://www.w3.org/html/" rel="nofollow"><img align="center" src="https://github.com/sssinty/sssinty/blob/main/icon/html5-color.svg" alt="html5" height="35" width="35" style="max-width: 100%;"></a>
